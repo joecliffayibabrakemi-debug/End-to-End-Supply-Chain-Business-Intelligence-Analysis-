@@ -28,7 +28,7 @@ Took a raw, messy 500-record order dataset through the full analytics pipeline:
 
 - **500** orders analyzed, **₦62.95B** in total sales
 - **6** suppliers, **5** warehouses, **6** product categories, **3** customer regions
-- **58.8%** delivered order rate — with cancelled, returned, and pending splitting the rest almost evenly
+- **58.8%** delivered order rate with cancelled, returned, and pending splitting the rest almost evenly
 - **28.2%** of orders (₦12.01B) end in cancellation or return
 
 ## Top Findings
