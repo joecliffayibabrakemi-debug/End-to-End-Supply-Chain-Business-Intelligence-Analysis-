@@ -80,8 +80,8 @@ Every answer follows the same structure: what happened, why it likely happened, 
 
 Two things in this dataset are flagged rather than smoothed over, because a real analyst reports what the data says, not what makes the report cleaner:
 
-- **60 orders (18% of sales) are attributed to an "Unknown" supplier**, and **49 orders (7.6% of sales) have no warehouse assigned.** These are real revenue but untracked — a genuine operational gap, not something to quietly exclude.
-- **156 orders (31.2%) show an identical 95-day delivery time.** That level of repetition doesn't look like natural variance. It's presented in the analysis as a data quality question to verify, not a confirmed root cause — the honest move when a pattern looks more like a system default than a real measurement.
+- **60 orders (18% of sales) are attributed to an "Unknown" supplier**, and **49 orders (7.6% of sales) have no warehouse assigned.** These are real revenue but untracked. A genuine operational gap, not something to quietly exclude.
+- **156 orders (31.2%) show an identical 95-day delivery time.** That level of repetition doesn't look like natural variance. It's presented in the analysis as a data quality question to verify, not a confirmed root cause. The honest move when a pattern looks more like a system default than a real measurement.
 
 ## About Me
 
