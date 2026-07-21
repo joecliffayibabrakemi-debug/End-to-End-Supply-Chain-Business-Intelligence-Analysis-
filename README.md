@@ -42,13 +42,18 @@ Took a raw, messy 500-record order dataset through the full analytics pipeline:
 
 ## Dashboard Preview
 
+**Microsoft Excel Preview**
 <img width="4090" height="1842" alt="ApexLink" src="https://github.com/user-attachments/assets/c9a16f3e-da39-4766-a56c-00949624114a" />
 
+**Power Bi page 1 Preview**
 <img width="673" height="380" alt="Screenshot 2026-07-20 183915" src="https://github.com/user-attachments/assets/29460349-46c5-49d1-9696-5577309bcc08" />
 
+**Powwer Bi page 2 Preview**
 <img width="673" height="378" alt="Screenshot 2026-07-20 183951" src="https://github.com/user-attachments/assets/6a18ad58-f1ea-4507-aa3b-ba1f209fc310" />
 
-<img width="960" height="540" alt="Screenshot 2026-07-21 235903" src="https://github.com/user-attachments/assets/77a55cbb-9f9f-4523-9a8e-d9c1367169a2" />
+**MySql Preview**
+<img width="960" height="497" alt="Screenshot 2026-07-21 235903" src="https://github.com/user-attachments/assets/3b88d598-13dd-40f5-bd7b-631378c90e23" />
+
 
 
 
