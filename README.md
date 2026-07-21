@@ -12,10 +12,10 @@ ApexLink Supply Chain Ltd is a Nigerian logistics company handling procurement, 
 
 Took a raw, messy 500-record order dataset through the full analytics pipeline:
 
-1. **Cleaned it** — deduplicated, standardized inconsistent naming (suppliers, warehouses, products, regions), fixed data types, handled missing and negative values, resolved outliers.
-2. **Queried it** — 34 SQL queries covering filtering, aggregation, `GROUP BY`/`HAVING`, `CASE` logic, and views.
-3. **Modeled it** — Power BI dashboard with 9 DAX measures, 10 visuals, and slicers for interactive filtering.
-4. **Interrogated it** — answered 14 specific business questions management would actually ask, each with a driver, an impact, and a recommendation attached.
+1. **Cleaned it:** deduplicated, standardized inconsistent naming (suppliers, warehouses, products, regions), fixed data types, handled missing and negative values, resolved outliers.
+2. **Queried it:**  34 SQL queries covering filtering, aggregation, `GROUP BY`/`HAVING`, `CASE` logic, and views.
+3. **Modeled it:**  Power BI dashboard with 9 DAX measures, 10 visuals, and slicers for interactive filtering.
+4. **Interrogated it:** answered 14 specific business questions management would actually ask, each with a driver, an impact, and a recommendation attached.
 
 ## Tools Used
 
